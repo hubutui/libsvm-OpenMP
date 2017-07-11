@@ -8,6 +8,8 @@ Libsvm is available at
 http://www.csie.ntu.edu.tw/~cjlin/libsvm
 Please read the COPYRIGHT file before using libsvm.
 
+**Pls Refer to the following website for OpenMP Modification: http://tipstrickshowtos.blogspot.hk/2014/05/enable-libsvm-to-use-multiple-cpus.html**
+
 Table of Contents
 =================
 
